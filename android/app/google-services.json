@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "738418991768",
+    "project_id": "musictones2-435d2",
+    "storage_bucket": "musictones2-435d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738418991768:android:d8be70d646482794c6a6ed",
+        "android_client_info": {
+          "package_name": "com.example.musictones2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2dVwstJUmvET8_9Ix1aseJpIJDgNtcRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
